@@ -2,7 +2,7 @@
 ## Project Summary
 This study explores common transcriptomic alterations between two major neuropsychiatric conditions—Schizophrenia (SCZ) and Autism Spectrum Disorder (ASD)—with the goal of uncovering shared molecular pathways that may underlie their overlapping symptomatology. By directly comparing RNA‑seq data from post‑mortem amygdala samples of SCZ patients and frontal‑cortex samples of ASD patients against matched healthy controls, we aimed to pinpoint genes whose expression is similarly dysregulated in both disorders.
 
-This work was conducted to fulfill the MDSC 519 course requirement at the University of Calgary
+*This work was conducted to fulfill the MDSC 519 course requirement at the University of Calgary*
 
 ## Key Objectives
 
