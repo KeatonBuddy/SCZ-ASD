@@ -48,3 +48,5 @@ This study explores common transcriptomic alterations between two major neuropsy
 
 ## Conclusions & Next Steps
 Although limited by small sample size and differing tissue origins, this pilot analysis highlights a handful of promising candidate genes for deeper investigation. Future work should leverage larger, multi‑region cohorts (e.g., CommonMind Consortium) and validate these candidates via independent datasets or functional assays. Ultimately, identifying robust, shared biomarkers could illuminate novel targets for therapeutic intervention across these complex mental illnesses.
+
+*All analysis code (read‑level QC with FastQC/MultiQC, transcript pseudoalignment via Kallisto, differential expression testing in Sleuth, and PCA/clustering visualizations) was written in R (run in RStudio with auxiliary Bash pipelines); figures and the full write‑up appear in the submitted project document, and the original scripts are unfortunately no longer available.*
